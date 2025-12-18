@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Shabeena Khan
 
 ### 🎓 Final Bachelor of Computer Applications Student | 💻 Web Developer
@@ -167,7 +165,7 @@ Full-stack applications
 <p>Feel free to reach out for collaborations, discussions, or just to say <b>Assalamu Alaikum</b>! ☪️</p>
 
 <p align="center">
-  <a href="https://linktr.ee/simplified_learner">
+  <a href="https://linktr.ee/nabeelkhan-bca">
     <img src="https://img.shields.io/badge/🔗_All_My_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="mailto:your.smartbcanotes@gmail.com">
@@ -185,7 +183,7 @@ Full-stack applications
   <a href="https://www.instagram.com">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/c/Simplifiedlearner">
+  <a href="https://www.youtube.com/c/nabeelkhan7860">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
