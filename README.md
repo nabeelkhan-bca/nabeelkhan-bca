@@ -104,7 +104,7 @@ Full-stack applications
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabeelkhan-bca&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-PMishra&theme=radical&hide_border=true&background=1a1b27&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelkhan-bca&theme=radical&hide_border=true&background=1a1b27&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
