@@ -102,32 +102,40 @@ Full-stack applications
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60">
 
+### 📊 Profile Analytics
 
-
-## 📊 GitHub Stats
-
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithshabeenakhan&theme=tokyonight" alt="Profile Summary" width="95%"/>
 
 <table>
 <tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithshabeenakhan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" />
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshabeenakhan&theme=tokyonight" alt="Repos Per Language"/>
 </td>
-<td align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshabeenakhan&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" width="100%" alt="GitHub Streak"/>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshabeenakhan&theme=tokyonight" alt="Most Commit Language"/>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshabeenakhan&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e" alt="Top Languages" />
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithshabeenakhan&theme=tokyonight" alt="Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithshabeenakhan&theme=tokyonight" alt="Productive Time"/>
 </td>
 </tr>
 </table>
 
+[![](https://visitcount.itsvg.in/api?id=codewithshabeenakhan&label=Total%20Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&random=false&width=1000&lines=Thank+You+for+Visiting!+✨;Let's+Build+Something+Amazing+Together!+🚀;Open+for+Collaboration+%26+Opportunities!+💼;JazakAllah+Khair!+🌙" alt="Closing Message"/>
+
+<br>
 
 ### 🌟 My Core Values
 
