@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://github.com/nabeelkhan-bca">
+<a href="https://github.com/codewithshabeenakhan">
   <img align="right" alt="Coding Girl" width="400" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 </a>
 🌸 About Me
@@ -284,13 +284,13 @@ Full-stack applications
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=008000&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+for+visiting+!;Hope+to+see+you+again+%F0%9F%98%81;Dont+forget+to+follow!" alt="Typing SVG" /></a></h3>
 </div>
-<a href="https://github.com/nabeelkhan-bca">
+<a href="https://github.com/codewithshabeenakhan">
   <img src="https://img.shields.io/badge/⭐_Star_My_Repos-yellow?style=for-the-badge" alt="Star Repos"/>
 </a>
 <a href="https://github.com/nabeelkhan-bca">
   <img src="https://img.shields.io/badge/🤝_Follow_Me-blue?style=for-the-badge" alt="Follow"/>
 </a>
-<a href="https://github.com/nabeelkhan-bca">
+<a href="https://github.com/codewithshabeenakhan">
   <img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-orange?style=for-the-badge" alt="Support"/>
 </a>
 
