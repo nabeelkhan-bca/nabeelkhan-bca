@@ -107,6 +107,31 @@ Full-stack applications
 <table>
 <tr>
 <td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithshabeenakhan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" />
+</td>
+<td align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshabeenakhan&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" width="100%" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshabeenakhan&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeelkhan-bca&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" />
 </td>
 <td align="center">
@@ -124,15 +149,9 @@ Full-stack applications
 
 ---
 
-## 📈 Contribution Graph
+### 📊 Contribution Graph
 
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabeelkhan-bca&theme=radical&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)
-
-</div>
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshabeenakhan&custom_title=Shabeena's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 ## 🏆 Achievements & Organizations
 
