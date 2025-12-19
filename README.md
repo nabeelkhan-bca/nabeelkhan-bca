@@ -133,8 +133,6 @@ Full-stack applications
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&random=false&width=1000&lines=Thank+You+for+Visiting!+✨;Let's+Build+Something+Amazing+Together!+🚀;Open+for+Collaboration+%26+Opportunities!+💼;JazakAllah+Khair!+🌙" alt="Closing Message"/>
-
 <br>
 
 ### 🌟 My Core Values
