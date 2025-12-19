@@ -287,7 +287,7 @@ Full-stack applications
 <a href="https://github.com/codewithshabeenakhan">
   <img src="https://img.shields.io/badge/⭐_Star_My_Repos-yellow?style=for-the-badge" alt="Star Repos"/>
 </a>
-<a href="https://github.com/nabeelkhan-bca">
+<a href="https://github.com/codewithshabeenakhan">
   <img src="https://img.shields.io/badge/🤝_Follow_Me-blue?style=for-the-badge" alt="Follow"/>
 </a>
 <a href="https://github.com/codewithshabeenakhan">
